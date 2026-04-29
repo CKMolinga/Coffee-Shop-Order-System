@@ -1,6 +1,4 @@
-# Name: Kombe Molinga Prince-Charles
-# Student ID: C0964367
-# Chapter 13 Example 2: Coffee Shop Order System
+# Coffee Shop Order System
 
 import tkinter as tk
 from tkinter import messagebox
